@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Robot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Robot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
